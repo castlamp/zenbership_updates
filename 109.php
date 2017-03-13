@@ -10,6 +10,7 @@
  * CHANGES
  * - Pinned notes on homepage and/or or member page.
  * - Added customizable pipeline (contact) types.
+ * - New criteria, including "content access", "total spent", and "product purchased".
  *
  * NEW PLUGINS
  * - 

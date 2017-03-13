@@ -8,7 +8,7 @@
  * @version 	v108
  *
  * CHANGES
- * - Source Tracking
+ * - Source Tracking with A/B testing options
  * - SMS Improvements
  * - E-Mail Improvements
  * - One click email reply on form submissions
@@ -21,7 +21,7 @@
  * - Added better descriptions and help bubbles throughout the control panel.
  * - Criteria error logs added.
  * - Improved quick search.
- * - New hooks added, including subscriptoin upgrade/downgrade.
+ * - New hooks added, including subscription upgrade/downgrade and contact pipeline movement.
  * - Admin dashboard layout changes.
  * - Performance improvements.
  *
