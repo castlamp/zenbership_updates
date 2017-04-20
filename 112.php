@@ -41,7 +41,7 @@ return array(
 	"UPDATE `ppSD_templates` SET `section`='Member Dashboard' WHERE `section`='Account Management';",
 	"UPDATE `ppSD_templates` SET `section`='Member Dashboard' WHERE `section`='Account Management	';",
 	"UPDATE `ppSD_templates` SET `section`='Member Dashboard' WHERE `id`='cart_add_card' LIMIT 1;",
-	"ALTER TABLE `ppSD_login_annoucements` ADD `media_token` varchar(50) DEFAULT NULL;",
+	"ALTER TABLE `ppSD_login_announcements` ADD `media_token` varchar(50) DEFAULT NULL;",
 );
 
 
