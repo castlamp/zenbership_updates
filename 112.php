@@ -16,7 +16,11 @@
  * - 
  *
  * NEW TEMPLATES
- * -
+ * - news_entry_none.php
+ * - news_entry_post.php
+ * - news_entry_video.php
+ * - news_post.php
+ * - news_video.php
  *
  */ 
 
